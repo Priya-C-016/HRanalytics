@@ -13,12 +13,14 @@ gdown.download(download_url, output, quiet=False)
 # Load the CSV data
 df = pd.read_csv(output)
 
-# Streamlit app title
-st.title("Employee Performance Analysis and HR Dashboard")
+# Debugging: Show column names and data types
 
 # Show the first few rows of the data
 st.subheader("Data Overview")
 st.write(df.head())
+
+# Check for missing values
+
 
 # Sidebar for filtering options
 st.sidebar.header("Filter Options")
