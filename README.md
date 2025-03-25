@@ -45,23 +45,22 @@ Gender, Age, Experience
 ## 🚀 How to Run the Project
 
 Clone the repository:
-
+```
 git clone https://github.com/your-username/hr-analytics-dashboard.git
-
+```
 Navigate to the project directory:
-
+```
 cd hr-analytics-dashboard
-
+```
 Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 Run the dashboard:
-
+```
 streamlit run app.py
-
+```
 OR, for Power BI users:
-
 Open the Power BI file and connect it to the dataset.
 
 ## 📈 Insights Gained
