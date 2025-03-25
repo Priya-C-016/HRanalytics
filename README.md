@@ -4,6 +4,9 @@
 
 The HR Analytics Dashboard is an interactive data visualization tool designed to analyze and optimize employee performance, retention, and workforce trends. It provides insights into key HR metrics, helping organizations make data-driven decisions.
 
+
+![Alt Text](Dashboard.png)
+
 ## 🔍 Features
 
 Employee Performance Analysis: Visualizes performance trends based on key KPIs.
@@ -17,6 +20,10 @@ Salary & Compensation Analysis: Compares salary trends across departments.
 Department-Wise Analytics: Evaluates department productivity and workforce allocation.
 
 Custom Data Upload: Allows users to upload and analyze their own HR data.
+
+![Alt Text](Visuals.png)
+![Alt Text](AIprediction.png)
+
 
 ## 📊 Technologies Used
 
